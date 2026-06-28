@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Mateusz👋
 
-<!--
-**MateuszCapala/MateuszCapala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Dedicated+Robotics+Developer" alt="Typing SVG" />
+</p> 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ros,ubuntu,cpp,python,pytorch,opencv,docker&perline=15" height="65" alt="My Tech Stack" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateuszCapala&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
